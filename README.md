@@ -127,11 +127,16 @@ You can now **enter news text** or **upload headlines** to check if the news is 
 
 ### 🔹 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](Home_.png)
+
+![Interface_1 Page](interface1_.png)
+
+![Interface_2 Page](interface2.png)
+
 
 ### 🔹 Prediction Result
 
-![Result Page](screenshots/result.png)
+![Result Page](interface3.png)
 
 ---
 
