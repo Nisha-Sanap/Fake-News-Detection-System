@@ -127,9 +127,9 @@ You can now **enter news text** or **upload headlines** to check if the news is 
 
 ### 🔹 Home Page
 
-![Home Page](Home_.png)
+![Home Page](home_.png)
 
-![Interface_1 Page](interface1_.png)
+![Interface_1 Page](Interface1_.png)
 
 ![Interface_2 Page](interface2.png)
 
