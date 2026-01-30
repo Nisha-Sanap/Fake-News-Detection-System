@@ -1,7 +1,6 @@
 
 ---
 
-````md
 # 📰 TruthLens – Fake News Detector
 
 **TruthLens** is a web-based **Fake News Detection System** that uses **Machine Learning** to classify news as **Real** or **Fake**. The system combines **Natural Language Processing (NLP)** with a clean **Flask web interface**, allowing users to quickly verify the authenticity of news headlines.
@@ -63,18 +62,20 @@ TruthLens/
 │
 ├── fake_news_pred_model_1.pkl     # Pre-trained ML model
 └── vectorizer.pkl                 # TF-IDF vectorizer
-````
+
 
 ---
+```
 
-## ⚙️ Installation & Setup
+ ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
 
-```bash
-git clone https://github.com/your-username/TruthLens.git
-cd TruthLens
+ ```bash
+ git clone https://github.com/your-username/TruthLens.git
+ cd TruthLens
 ```
+---
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
 
@@ -102,7 +103,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
----
+
 
 ## ▶️ Running the Application
 
